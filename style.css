@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0;
+}
+#status{
+ font-size: 18px;
+ color: red;
+}
+#number_of_objects{
+    font-size: 18px;
+    color: limegreen;
+}
+.start{
+    font-size: 18px;
+    color: blue;
+    font-family: 'Times New Roman';
+}
+.copy_right_footer{
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    font-size: 15px;
+    color: darkturquoise;
+    font-family:'Lucida Grande';
+    text-align: center;
+}
+canvas{
+    border: 3px red dashed;
+    box-shadow: 5px 5px 10px grey;
+    margin-top: 160px;
+}
+.note{
+    width: 100%;
+}
